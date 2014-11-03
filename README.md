@@ -9,7 +9,7 @@ PNF旨在于解决Mac OSX上播放Flash时CPU温度过高的问题。PNF使用AV
 
 PNF支持直接输入URL（回车）播放，和拖到链接到PNF窗口两种播放方式。
 
-例如：粘贴网页播放地址http://v.youku.com/v_show/id_XNzYzODM1Nzk2.html播放。
+例如：粘贴网页播放地址 http://v.youku.com/v_show/id_XNzYzODM1Nzk2.html 播放。
 
 PNF模拟iOS设备UA，使用Javascript获取播放地址（m3u8）。目前支持播放优酷、搜狐视频、爱奇艺、乐视、Youtube网页链接。可以通过Edit->Configuration，添加（或替换）配置支持其他网站。配置格式如下：
 
