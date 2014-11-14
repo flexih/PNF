@@ -24,4 +24,6 @@ PNF模拟iOS设备UA，使用Javascript获取播放地址（m3u8）。目前支�
 ```
 
 由于JS水平有限，欢迎提交JS代码。
+
+[下载](https://github.com/flexih/PNF/releases)
  
