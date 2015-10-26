@@ -31,5 +31,5 @@ PNF模拟iOS设备UA，使用Javascript获取播放地址（m3u8）。目前支�
 
 ![snapshot2](snapshot2.png)
 
-[下载](https://github.com/flexih/PNF/releases)
+[App Store下载](https://itunes.apple.com/cn/app/pnf/id1048365277?ls=1&mt=12)
  
