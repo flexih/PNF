@@ -30,6 +30,12 @@
   "website":"乐视"
  },
  {
+ "domain":"http://www.bilibili.com",
+ "urlJS":"window.html5data.src",
+ "titleJS":"window.shareConfig.title",
+ "website":"bilibili"
+ },
+ {
   "domain":"https://www.youtube.com",
   "urlJS":"koya.onEvent(1, '26_2');document.getElementsByTagName('video')[0].src",
   "titleJS":"",
