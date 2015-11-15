@@ -1,2 +1,8 @@
 [
+ {
+ "domain":"http://www.acfun.tv",
+ "urlJS":"player.document.getElementsByTagName('video')[0].src",
+ "titleJS":"",
+ "website":"AcFun弹幕视频网"
+ }
 ]
