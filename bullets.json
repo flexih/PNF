@@ -1,8 +1,20 @@
 [
- {
+  {
  "domain":"http://www.acfun.tv",
  "urlJS":"player.document.getElementsByTagName('video')[0].src",
- "titleJS":"",
+ "titleJS":"document.title",
  "website":"AcFun弹幕视频网"
+ },
+ {
+ "domain":"https://www.vimeo.com",
+ "urlJS":"document.getElementsByTagName('video')[0].src",
+ "titleJS":"document.getElementsByTagName('video')[0].title",
+ "website":"Vimeo"
+ },
+  {
+  "domain":"http://www.youku.com",
+  "urlJS":"function f() {n=document.getElementById('youku-html5player-video');if(n!=null){src=n.src}else{src=null};if(src==null){src=document.getElementsByTagName('video')[0].src}if(src.length>0){return src.concat('&type=hd2')};return src}r={'url':f(),'cookie':document.cookie}",
+  "titleJS":"function f(){n=window.videoTitle;if(n==null){n=document.title}return n;} f()",
+  "website":"优酷"
  }
 ]
