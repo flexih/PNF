@@ -13,7 +13,7 @@
  },
   {
   "domain":"http://www.youku.com",
-  "urlJS":"function f() {n=document.getElementById('youku-html5player-video');if(n!=null){src=n.src}else{src=null};if(src==null){src=document.getElementsByTagName('video')[0].src}if(src.length>0){return src.concat('&type=hd2')};return src} f()",
+  "urlJS":"function f() {n=document.getElementById('youku-html5player-video');if(n){src=n.src}else{src=null};if(!src){src=document.getElementsByTagName('video')[0].src}if(src.length>0){return src.concat('&type=hd2')};}f()",
   "titleJS":"function f(){n=window.videoTitle;if(n==null){n=document.title}return n;} f()",
   "website":"优酷"
  }
