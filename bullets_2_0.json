@@ -1,0 +1,10 @@
+[
+{
+domain: "http://www.youku.com",
+urlJS: "function f(){src='';if(window.BuildVideoInfo&&window.BuildVideoInfo._videoInfo&&window.BuildVideoInfo._videoInfo.src){src=window.BuildVideoInfo._videoInfo.src}if(src==''){e=document.getElementsByTagName('video');if(e.length){src=e[0].src;}}if(src!=''){src=src.concat('&type=mp4');if(src.indexOf('http')!=0){src='http:'.concat(src);}return src;} return '';} f();",
+titleJS: "function t(){n='';if(window.videoTitle){n=window.videoTitle;}if(n==''){e=document.getElementsByClassName('x-title');if(e.length){n=e[0].textContent;}}if(n==''){n=document.title}return n;} t();",
+isLogin: "function f(){l=document.cookie.split('; ');for(v in l){if(l[v].indexOf('u=')==0){return '1';}}return '0';} f();",
+loginable: true,
+website: "优酷"
+}
+]
