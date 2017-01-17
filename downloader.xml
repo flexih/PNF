@@ -19,7 +19,11 @@
               <li>[修复]修复重复下载现实错误</li>
             </ul>
             <ul>
-              <li>请使用链接下载<a href="https://raw.githubusercontent.com/flexih/PNF/master/downloader/1.2/ABUDownloader.zip">点击下载</a></li>
+              <li>请使用链接下载<a href="https://raw.githubusercontent.com/flexih/PNF/master/downloader/1.2/ABUDownloader.zip">下载</a></li>
+            </ul>
+            1.2
+            <ul>
+              <li>修复会员视频下载错误</li>
             </ul>
           ]]>
         </description>
