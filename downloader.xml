@@ -17,19 +17,19 @@
               <li>[新增]输入地址界面按⌥直接播放链接视频</li>
             </ul>
             <ul>
-              <li>[修复]修复重复下载现实错误</li>
+              <li>[修复]修复重复下载问题</li>
             </ul>
             <ul>
-              <li>请使用链接下载<a href="https://raw.githubusercontent.com/flexih/PNF/master/downloader/1.2/ABUDownloader.zip">下载</a></li>
+              <li>如果更新失败<a href="https://raw.githubusercontent.com/flexih/PNF/master/downloader/1.2/ABUDownloader.zip">点击下载</a></li>
             </ul>
             1.1
             <ul>
-              <li>修复会员视频下载不可用</li>
+              <li>[修复]修复会员视频下载不可用</li>
             </ul>
           ]]>
         </description>
         <pubDate>Fri, 7 Jan 2017 16:00:00 +0000</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/flexih/PNF/master/downloader/1.2/ABUDownloader.zip" sparkle:version="86" sparkle:shortVersionString="1.2" length="" type="application/octet-stream" />
+        <enclosure url="https://raw.githubusercontent.com/flexih/PNF/master/downloader/1.2/ABUDownloader.zip" sparkle:version="88" sparkle:shortVersionString="1.2" length="" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
